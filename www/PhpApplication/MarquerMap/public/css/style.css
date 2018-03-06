@@ -1,0 +1,16 @@
+#MarkerMap
+{
+    position: relative;
+    width: 100vw;
+    height: 70vh;
+    border: 1px solid black;
+}
+#MarkerTab
+{
+    width: 100vw;
+    height: 50vh;
+}
+.table
+{
+     width: 100%;
+}
