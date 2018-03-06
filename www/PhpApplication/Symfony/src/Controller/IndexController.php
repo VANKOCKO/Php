@@ -18,7 +18,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class IndexController extends Controller{
     
      /**
-     * @Route("/home/test")
+     * @Route("/home")
      */
      public function number()
      {
@@ -28,6 +28,5 @@ class IndexController extends Controller{
             'number' => $number,
         ));
      }
-    
-    
+  
 }
